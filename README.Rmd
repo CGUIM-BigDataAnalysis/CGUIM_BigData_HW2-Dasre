@@ -8,7 +8,7 @@ output: github_document
 ```{r}
 num1<-3561
 num2<-5815
-round(num1+num2,digits = 2)
+round(num1+num2)
 round(num1-num2,digits = 2)
 round(num1*num2,digits = 2)
 round(num1/num2,digits = 2)
